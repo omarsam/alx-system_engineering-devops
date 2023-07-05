@@ -20,3 +20,5 @@ And hidden files (starting with .)
 7-movethatfile              : This script Move the file betty from /tmp/ to /tmp/my_first_directory
 
 8-firstdelete               : This script Delete the file betty
+
+9-firstdirdeletion          : This script Delete the directory my_first_directory
