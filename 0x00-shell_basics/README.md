@@ -22,3 +22,5 @@ And hidden files (starting with .)
 8-firstdelete               : This script Delete the file betty
 
 9-firstdirdeletion          : This script Delete the directory my_first_directory
+
+10-back			    : This script changes the working directory to the previous one.
