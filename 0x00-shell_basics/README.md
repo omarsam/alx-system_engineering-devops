@@ -38,3 +38,5 @@ And hidden files (starting with .)
 101-clean_emacs            : This script deletes all files in the current working directory that end with the character ~.
 
 102-tree                   : This script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
+
+103-commas                 : This command that lists all the files and directories of the current directory, separated by commas (,).
